@@ -266,13 +266,20 @@ th, td{
 
 }
 
-.row .col-7 img{
+.row .col-5 img{
   padding-top: 6%;
+  float: right;
 }
 
 .ul .facts{
   list-style-type: square;
+  float: left;
 }
 .historical-img {float: right;
   margin: 6% -1% 1% 3%;
 }
+
+.row .col-4 h2{
+  text-align: center;
+}
+
