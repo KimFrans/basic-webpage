@@ -268,8 +268,8 @@ th, td{
 
 .city{
   margin-top: 12%;
-  float: left;
-  margin-right: -50%;
+  float: right;
+  /* margin-right: -50%; */
   width: auto;
   height: 170px;
 }
@@ -286,3 +286,13 @@ th, td{
   text-align: center;
 }
 
+body{
+  box-sizing: border-box;
+}
+
+.foreign-name{
+  padding-left: 2%;
+}
+.row .col-5 h1{
+  float: right;
+}
