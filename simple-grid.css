@@ -253,7 +253,7 @@ p {
 table{
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 100%;
 }
 
 table, th, td {
@@ -266,9 +266,12 @@ th, td{
 
 }
 
-.row .col-5 img{
-  padding-top: 6%;
-  float: right;
+.city{
+  margin-top: 12%;
+  float: left;
+  margin-right: -50%;
+  width: auto;
+  height: 170px;
 }
 
 .ul .facts{
@@ -276,10 +279,10 @@ th, td{
   float: left;
 }
 .historical-img {float: right;
-  margin: 6% -1% 1% 3%;
+  margin: 0 0 1% 3%;
 }
 
-.row .col-4 h2{
+.row .col-4 h3{
   text-align: center;
 }
 
